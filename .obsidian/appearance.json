@@ -1,1 +1,7 @@
-{}
+{
+  "baseFontSize": 18,
+  "textFontFamily": "Arial",
+  "enabledCssSnippets": [
+    "fix-highlight"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "p": "#5B21B6ff",
+    "s": "#81a1c1ff",
+    "b": "#1E40AFff",
+    "g": "#065F46ff",
+    "y": "#856004ff",
+    "r": "#991B1Bff",
+    "o": "#9A3412ff"
+  },
+  "highlighterOrder": [
+    "p",
+    "s",
+    "b",
+    "g",
+    "y",
+    "r",
+    "o"
+  ],
+  "menuMode": "normal",
+  "cleanSelectors": [],
+  "overwriteMarks": true
+}

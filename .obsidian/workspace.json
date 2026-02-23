@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "المداواة/02 علاج ارتفاع الضغط الشرياني.md",
+                "file": "المداواة/end.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02 علاج ارتفاع الضغط الشرياني"
+              "title": "end"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#حالة_إسعافية",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +74,18 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b71a8d2a28676cf2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "eye",
+              "title": "Zen"
+            }
           }
         ]
       }
@@ -88,25 +101,6 @@
         "id": "3429b76521fccd57",
         "type": "tabs",
         "children": [
-          {
-            "id": "0f904c11c7bed0b0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "المداواة/02 علاج ارتفاع الضغط الشرياني.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 02 علاج ارتفاع الضغط الشرياني"
-            }
-          },
           {
             "id": "cd037e9924a1e89e",
             "type": "leaf",
@@ -156,16 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "خفقان القلب.md",
+                "file": "المداواة/end.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of خفقان القلب"
+              "title": "Outline of end"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,32 +181,32 @@
   },
   "active": "8b18f18d5aba133b",
   "lastOpenFiles": [
+    "المداواة/09 الغدة الدرقية.md",
+    "المداواة/05 شركة برولاين فارما.md",
     "المداواة/00 المداواة.md",
+    "المداواة/01 الجهاز الودي.md",
+    "المداواة/متفرقات ومتممات.md",
+    "المداواة/04 human-pharma.md",
+    "المداواة/end.md",
+    "المداواة/05 الأدوية المؤثرة على الجهاز الهضمي.md",
+    "المداواة/04 أدوية الإرقاء والخثار.md",
+    "المداواة/02 علاج ارتفاع الضغط الشرياني.md",
+    "3.md",
+    "فهرس الطب السريري الشامل بأوبسيديان.md",
     "المداواة/المداواة.md",
     "المداواة/08 الكورتيكوستيرويدات.md",
     "المداواة/07 مسكنات الألم.md",
     "المداواة/06 الأدوية النفسية والعصبية.md",
-    "المداواة/05 الأدوية المؤثرة على الجهاز الهضمي.md",
-    "المداواة/04 أدوية الإرقاء والخثار.md",
     "المداواة/03 أدوية القلب.md",
     "المداواة/03 ابن الهيثم.md",
-    "المداواة/02 علاج ارتفاع الضغط الشرياني.md",
     "المداواة/02 asiapharma.md",
-    "المداواة/01 الجهاز الودي.md",
     "المداواة/01 الأدوية التجارية - ملاحظات عامة.md",
-    "المداواة/end.md",
-    "المداواة/04 human-pharma.md",
-    "المداواة/10 متفرقات ومتممات.md",
-    "المداواة/09 الغدة الدرقية.md",
     "end.md",
     "04 human-pharma.md",
     "03 ابن الهيثم.md",
     "02 asiapharma.md",
     "01 الأدوية التجارية - ملاحظات عامة.md",
     "10 متفرقات ومتممات.md",
-    "09 الغدة الدرقية.md",
-    "08 الكورتيكوستيرويدات.md",
-    "07 مسكنات الألم.md",
     "Docs/المداواة.docx",
     "المداواة",
     "New folder",

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "purple",
+    "name": "purple",
+    "color": "#7C00FE"
+  },
+  {
+    "id": "lightGreen",
+    "name": "light green",
+    "color": "#06D001"
+  },
+  {
+    "id": "button-{Date.now()}",
+    "name": "blue",
+    "color": "#4962df"
+  },
+  {
+    "id": "button-{Date.now()}",
+    "name": "orange",
+    "color": "#e97c16"
+  }
+]
