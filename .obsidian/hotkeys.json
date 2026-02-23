@@ -309,5 +309,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "copilot:chat-open-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }
