@@ -224,7 +224,7 @@
 
 **Niacin (Vitamin B3):**
 
-**الغدة الدرقية:**
+### **الغدد الصم:**
 
 **هرمونات الدرق البديلة:**
 
@@ -239,6 +239,9 @@
 **Methimazole:**
 
 **Propylthiouracil (PTU):**
+**مقلدات الدوبامين:**
+- **Bromocriptine**:
+- **Cabergoline:**
 
 ### **أدوية الإرقاء والخثار:**
 
@@ -453,6 +456,8 @@
 **Diclofenac:**
 
 **Indomethacin:**
+
+**Mefenamic Acid:**
 
 **Celecoxib (COX-2 Selective):**
 
@@ -696,6 +701,10 @@
 
 **Doxycycline:**
 
+**الأوكسازوليدينونات (Oxazolidinones):**
+
+**Linezolid:**
+
 **مثبطات اصطناع الحمض النووي:**
 
 **الكينولونات / فلوروكينولونات (Quinolones):**
@@ -715,5 +724,67 @@
 **السلفاميدات + تريميثوبوريم (Sulfonamides + Trimethoprim):**
 
 **Sulfamethoxazole + Trimethoprim (Co-trimoxazole):**
+
+
+
+### **مضادات الفطريات:**
+
+**تخريب غشاء الخلية الفطرية (الارتباط بالإرغوستيرول):**
+
+**البوليينات (Polyenes):**
+
+**Amphotericin B:**
+
+**Nystatin:**
+
+**مثبطات اصطناع الإرغوستيرول (غشاء الخلية):**
+
+**الآزولات (Azoles):**
+
+**(See sub-categories below):**
+
+**الإيميدازولات (Imidazoles - موضعية غالباً):**
+
+**Ketoconazole:**
+
+**Clotrimazole:**
+
+**Miconazole:**
+
+**التريازولات (Triazoles - جهازية):**
+
+**Fluconazole:**
+
+**Itraconazole:**
+
+**Voriconazole:**
+
+**Posaconazole:**
+
+**الأليلامينات (Allylamines):**
+
+**Terbinafine:**
+
+**مثبطات اصطناع الجدار الخلوي الفطري (بيتا غلوكان):**
+
+**الإيكينوكاندينات (Echinocandins):**
+
+**Caspofungin:**
+
+**Micafungin:**
+
+**Anidulafungin:**
+
+**مثبطات اصطناع الحمض النووي الفطري:**
+
+**مضادات الاستقلاب (Antimetabolites):**
+
+**Flucytosine:**
+
+**مثبطات الانقسام الفطري (تخريب الأنيبيبات الدقيقة):**
+
+**Benzofurans:**
+
+**Griseofulvin:**
 
 ### **متفرقات ومتممات:**

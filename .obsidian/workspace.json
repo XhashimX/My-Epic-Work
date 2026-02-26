@@ -8,32 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b18f18d5aba133b",
+            "id": "47b7a1badb35fcdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "المداواة/06 أدوية الجهاز التنفسي.md",
+                "file": "الباطنة الدموية/01 ملاحظات عامة.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06 أدوية الجهاز التنفسي"
+              "title": "01 ملاحظات عامة"
             }
           },
           {
-            "id": "0c00a896b7453d0a",
+            "id": "e0b8a26c5db67d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "المداواة/04 أدوية الإرقاء والخثار.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 أدوية الإرقاء والخثار"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -69,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#حالة_إسعافية",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +87,7 @@
             }
           },
           {
-            "id": "b71a8d2a28676cf2",
+            "id": "85fedda90cf12f31",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -165,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "المداواة/04 أدوية الإرقاء والخثار.md",
+                "file": "المداواة/10 ابن زهر.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 أدوية الإرقاء والخثار"
+              "title": "Outline of 10 ابن زهر"
             }
           },
           {
@@ -201,53 +197,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-audio-notes:Quick Audio Note with Transcription": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0c00a896b7453d0a",
+  "active": "45c3113a3711356b",
   "lastOpenFiles": [
-    "المداواة/05 الأدوية المؤثرة على الجهاز الهضمي.md",
-    "My Prompt.md",
-    "صدرية كامل.md",
-    "المداواة/06 أدوية الجهاز التنفسي.md",
-    "copilot/copilot-conversations/SYSTEM_COMMAND_Execute_`Strict_Spelling_Correction_Protocol`._USER_REQUEST_I_am_p@20260223_145958.md",
+    "الباطنة الدموية/01 ملاحظات عامة.md",
+    "ssa.md",
     "Untitled",
-    "copilot/system-prompts/systum.md",
-    "copilot/system-prompts",
-    "copilot/copilot-conversations/هل_هناك_تخ@20260223_143432.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "المداواة/end.md",
+    "الباطنة الدموية/03 فقر الدم.md",
+    "الباطنة الدموية/04 الاضطرابات النزفية.md",
+    "الباطنة الدموية/05 الآفات النقوية.md",
+    "الباطنة الغدية/غدية.md",
+    "Docs/غدية.docx",
     "المداواة/00 المداواة.md",
-    "المداواة/04 أدوية الإرقاء والخثار.md",
-    "المداواة/03 ابن الهيثم.md",
+    "المداواة/01 الجهاز الودي.md",
+    "المداواة/04 أدوية الإرقاء والخثار.md.bak",
+    "المداواة/02 علاج ارتفاع الضغط الشرياني.md.bak",
+    "المداواة/01 الجهاز الودي.md.bak",
+    "Docs/المداواة.md",
     "Docs/المداواة.docx",
-    "المداواة",
-    "New folder",
-    "Docs/epic one.docx",
-    "Docs/هضمية_.docx",
+    "الباطنة الدموية/06 الخباثات الدموية.md.bak",
+    "الباطنة الدموية/04 الاضطرابات النزفية.md.bak",
+    "الباطنة الدموية/03 فقر الدم.md.bak",
+    "الباطنة الدموية/01 ملاحظات عامة.md.bak",
+    "الباطنة الدموية/الباطنة الدموية.md",
+    "الباطنة الدموية/استئصال الطحال.md",
+    "المداواة/09 الكورتيكوستيرويدات.md",
+    "المداواة/02 علاج ارتفاع الضغط الشرياني.md",
+    "الباطنة الدموية/06 الخباثات الدموية.md",
+    "الباطنة الدموية/أمراض الطحال.md",
+    "My Prompt.md",
+    "8.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "Docs/Attachments/غدية.png",
+    "Epic One/epic one.md",
+    "Epic One/01 الجهاز العصبي.md",
+    "Epic One/1 الجهاز العصبي.md",
+    "Epic One/09 أذن أنف حنجرة وعيون (التظاهرات الجهازية).md",
+    "Epic One/08 الأمراض النفسية (التظاهرات الجسدية).md",
+    "Epic One/07 طب الأطفال.md",
+    "Epic One/06 الأمراض النسائية.md",
+    "Epic One/05 الجهاز العضلي الهيكلي والمناعة.md",
+    "Docs/Attachments/الباطنة الدموية 1.jpeg",
+    "Docs/Attachments/الباطنة الدموية 3.png",
+    "Docs/Attachments/الباطنة الدموية 2.png",
+    "Docs/Attachments/الباطنة الدموية 1.png",
+    "Docs/Attachments/الباطنة الدموية.jpeg",
+    "Docs/Attachments/الباطنة الدموية.png",
     "Attachments/صدرية 1.png",
     "Attachments/صدرية.png",
-    "media/image2.png",
-    "media/image1.png",
-    "Pasted image 20260220234852.png"
+    "media/image2.png"
   ]
 }

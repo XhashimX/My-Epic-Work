@@ -1,6 +1,6 @@
-## 04 **human-pharma**
 
-**الجهاز الودي:**
+
+### **الجهاز الودي:**
 
 **المقلدات الودية :**
 
@@ -96,7 +96,7 @@
 
 **Tropicamide:**
 
-**علاج ارتفاع الضغط الشرياني:**
+### **علاج ارتفاع الضغط الشرياني:**
 
 **المدرات:**
 
@@ -224,7 +224,7 @@
 
 **Niacin (Vitamin B3):**
 
-**الغدة الدرقية:**
+### **الغدة الدرقية:**
 
 **هرمونات الدرق البديلة:**
 
@@ -250,7 +250,7 @@
 
 **Abciximab:**
 
-**مضادات التخثر:**
+### **مضادات التخثر:**
 
 **مضادات فيتامين K:**
 
@@ -284,7 +284,7 @@
 
 **Alteplase:**
 
-**الأدوية المؤثرة على الجهاز الهضمي:**
+### **الأدوية المؤثرة على الجهاز الهضمي:**
 
 **معدلات الحموضة:**
 
@@ -378,7 +378,7 @@
 
 **Paraffin Oil:**
 
-**الكورتيكوستيرويدات:**
+### **الكورتيكوستيرويدات:**
 
 **القشرانيات السكرية:**
 
@@ -394,7 +394,7 @@
 
 **Betamethasone:**
 
-**أدوية السكر:**
+### **أدوية السكر:**
 
 **الانسولين:**
 
@@ -417,7 +417,7 @@
 
 **SGLT-2 I :**
 
-**الأدوية النفسية والعصبية:**
+### **الأدوية النفسية والعصبية:**
 
 **مضادات الذهان النموذجية (Typical Antipsychotics):**
 
@@ -546,7 +546,7 @@
 - **Citicoline: (منشط ذهني)**
 - **Piracetam:**
 
-**مسكنات الألم:**
+### **مسكنات الألم:**
 
 **مضادات الالتهاب غير الستيروئيدية (NSAIDs):**
 
@@ -554,13 +554,13 @@
 
 **Naproxen:**
 
-**Diclofenac:** diclonerv,diclozone
+**Diclofenac:** diclonerv,diclozone,Parafenac <small>with paracetamol</small>
 
 **Indomethacin:**
 
 **Celecoxib (COX-2 Selective):** Etoric man
 
-**الأدوية النسائية:**
+### **الأدوية النسائية:**
 
 **Cyproterone Acetate 2 mg | Micronized Ethinylestradiol 35 mcg:** liana
 
@@ -573,11 +573,11 @@
 - **Aromatase Inhibitor|Letrozole:** LEZOR
 - **SERMs|Tamoxifen:**
 
-**الأدوية الجلدية:**
+### **الأدوية الجلدية:**
 
 **Isotretinoin:** Humatret
 
-**الصادات الحيوية:**
+### **الصادات الحيوية:**
 
 **مثبطات اصطناع الجدار الجرثومي:**
 
@@ -683,7 +683,7 @@
 
 **Sulfamethoxazole + Trimethoprim (Co-trimoxazole):**
 
-**متفرقات ومتممات:**
+### **متفرقات ومتممات:**
 
 **Orlistat Human:** second line for obesity after Phentermine/Topiramate or GLP-1 RAs , can be user after 12y, loss 3%-5% only after 1y
 
@@ -695,6 +695,12 @@
 
 **Humafort:** مضاد وذمة
 
-**sepomycin:** Metronidazole + Spiramycin
+**sepomycin:** `Metronidazole + Spiramycin`
 
 **Libraximan:** clidinium bromide Anticholinergic + Chlordiazepoxide Benzodiazepine >> IBS with nervus
+
+**GINKOTAN:** `Ginkgo Biloba + Ginseng + Vitamin E + Vitamin C + Vitamin B6 + Vitamin B12`
+	- مكمل غذائي/منشط للذهن، علاج داعم لحالات القصور الدماغي والخرف ودعم الوظاظف المعرفية
+	- الاستطباب: ` طالب في فترة امتحانات، أو موظف يعاني من إجهاد ذهني شديد، أو مسن يعاني من نسيان بسيط وصداع وعائي`
+	- الذاكرة قصيرة الأمد واليقظة تتحسن بنسبة **متواضعة**
+	- له خطر نزيف ويستخدم بحذر مع المميعات
