@@ -1,0 +1,21 @@
+/* 1. إنشاء "قاعدة" مخصصة تلتقط الحروف العربية فقط وتجبرها على استخدام Arial */
+@font-face {
+    font-family: 'OnlyArabic';
+    src: local('Arial');
+    unicode-range: U+0600-06FF, U+08A0-08FF, U+0660-0669; /* نطاق الحروف العربية */
+}
+
+/* 2. تطبيق التعديل على ما بين علامتي ` (في وضع التحرير والقراءة) */
+.markdown-rendered code,
+.cm-s-obsidian .cm-inline-code,
+.cm-inline-code {
+    /* تطبيق الخط العربي أولاً، وإذا كان إنجليزياً سيعود للخط الافتراضي */
+    font-family: 'OnlyArabic', var(--font-monospace) !important;
+    
+    /* تصغير الخط قليلاً كما طلبت */
+    font-size: 0.85em !important; 
+    
+    /* إلغاء التباعد البشع بين الحروف العربية */
+    letter-spacing: normal !important;
+    word-spacing: normal !important;
+}

@@ -8,32 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47b7a1badb35fcdb",
+            "id": "a8c3e5db9de48ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الباطنة الدموية/01 ملاحظات عامة.md",
+                "file": "الباطنة الصدرية/14 اضطرابات التنفس أثناء النوم.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 ملاحظات عامة"
+              "title": "14 اضطرابات التنفس أثناء النوم"
             }
           },
           {
-            "id": "e0b8a26c5db67d11",
+            "id": "029c2ed9d16668d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Epic One/02 الصدر (القلب والرئتين).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "02 الصدر (القلب والرئتين)"
+            }
+          },
+          {
+            "id": "b8f805f01ac6a90f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G.P ONE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "G.P ONE"
+            }
+          },
+          {
+            "id": "f35af531bbc66edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gp notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "gp notes"
+            }
+          },
+          {
+            "id": "cd45ab74abaa158d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epic One/04 الجهاز البولي والتناسلي.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "04 الجهاز البولي والتناسلي"
+            }
+          },
+          {
+            "id": "f943a0d108d6db56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epic One/03 الجهاز الهضمي.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "03 الجهاز الهضمي"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "^8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +152,7 @@
             }
           },
           {
-            "id": "85fedda90cf12f31",
+            "id": "0d739c8f1f275935",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -102,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "92fcc1c886cc9f9b",
@@ -185,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 334.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,53 +265,53 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45c3113a3711356b",
+  "active": "f35af531bbc66edb",
   "lastOpenFiles": [
-    "الباطنة الدموية/01 ملاحظات عامة.md",
-    "ssa.md",
+    "G.P ONE.md",
+    "gp notes.md",
+    "Untitled 1",
     "Untitled",
-    "الباطنة الدموية/03 فقر الدم.md",
-    "الباطنة الدموية/04 الاضطرابات النزفية.md",
-    "الباطنة الدموية/05 الآفات النقوية.md",
-    "الباطنة الغدية/غدية.md",
+    "Docs/G.P ONE.docx",
+    "Docs/Attachments/GP ONE.jpeg",
+    "Docs/Attachments/GP ONE.png",
+    "الباطنة الصدرية/04 ذات الرئة Pneumonia.md",
+    "Epic One/04 الجهاز البولي والتناسلي.md",
+    "Epic One/05 الجهاز العضلي الهيكلي والمناعة.md",
+    "Epic One/epic one.md",
+    "Epic One/01 الجهاز العصبي.md",
+    "Epic One/02 الصدر (القلب والرئتين).md",
+    "Epic One/03 الجهاز الهضمي.md",
+    "الباطنة الصدرية/05 السل Tuberculosis.md",
+    "الباطنة الصدرية/14 اضطرابات التنفس أثناء النوم.md",
+    "الباطنة الصدرية/صدرية.md",
+    "الباطنة الصدرية/03 فيزيولوجيا وملاحظات عامة.md",
+    "الباطنة الصدرية/02 التشخيص الشعاعي.md",
+    "الباطنة الصدرية/01 مقدمة تشريحية.md",
+    "الباطنة الصدرية/12 سرطان الرئة.md",
+    "الباطنة الصدرية/11 استرواح الصدر.md",
+    "الباطنة الصدرية/10 الانصباب.md",
+    "الباطنة الصدرية/09 الصمة الرئوية.md",
+    "الباطنة الصدرية/08 أمراض الرئة الخلالية ILD.md",
+    "الباطنة الصدرية/07 آفات الرئة الحاصرة.md",
+    "الباطنة الصدرية/06 آفات الرئة السادة.md",
+    "Docs/صدرية.docx",
+    "المداواة/05 الأدوية المؤثرة على الجهاز الهضمي.md",
+    "المداواة/02 asiapharma.md",
+    "المداواة/04 human-pharma.md",
+    "المداواة/09 ابن حيان.md",
+    "الباطنة الصدرية/صدرية.md.bak",
+    "الباطنة الصدرية",
+    "Docs/Attachments/صدرية 1.png",
+    "Docs/Attachments/صدرية.png",
     "Docs/غدية.docx",
-    "المداواة/00 المداواة.md",
-    "المداواة/01 الجهاز الودي.md",
     "المداواة/04 أدوية الإرقاء والخثار.md.bak",
     "المداواة/02 علاج ارتفاع الضغط الشرياني.md.bak",
     "المداواة/01 الجهاز الودي.md.bak",
-    "Docs/المداواة.md",
-    "Docs/المداواة.docx",
-    "الباطنة الدموية/06 الخباثات الدموية.md.bak",
-    "الباطنة الدموية/04 الاضطرابات النزفية.md.bak",
-    "الباطنة الدموية/03 فقر الدم.md.bak",
-    "الباطنة الدموية/01 ملاحظات عامة.md.bak",
-    "الباطنة الدموية/الباطنة الدموية.md",
-    "الباطنة الدموية/استئصال الطحال.md",
-    "المداواة/09 الكورتيكوستيرويدات.md",
-    "المداواة/02 علاج ارتفاع الضغط الشرياني.md",
-    "الباطنة الدموية/06 الخباثات الدموية.md",
-    "الباطنة الدموية/أمراض الطحال.md",
-    "My Prompt.md",
-    "8.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "Docs/Attachments/غدية.png",
-    "Epic One/epic one.md",
-    "Epic One/01 الجهاز العصبي.md",
-    "Epic One/1 الجهاز العصبي.md",
-    "Epic One/09 أذن أنف حنجرة وعيون (التظاهرات الجهازية).md",
-    "Epic One/08 الأمراض النفسية (التظاهرات الجسدية).md",
-    "Epic One/07 طب الأطفال.md",
-    "Epic One/06 الأمراض النسائية.md",
-    "Epic One/05 الجهاز العضلي الهيكلي والمناعة.md",
     "Docs/Attachments/الباطنة الدموية 1.jpeg",
     "Docs/Attachments/الباطنة الدموية 3.png",
     "Docs/Attachments/الباطنة الدموية 2.png",
     "Docs/Attachments/الباطنة الدموية 1.png",
-    "Docs/Attachments/الباطنة الدموية.jpeg",
-    "Docs/Attachments/الباطنة الدموية.png",
-    "Attachments/صدرية 1.png",
-    "Attachments/صدرية.png",
-    "media/image2.png"
+    "Docs/Attachments/الباطنة الدموية.jpeg"
   ]
 }

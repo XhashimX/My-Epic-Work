@@ -309,5 +309,14 @@
       ],
       "key": "I"
     }
+  ],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

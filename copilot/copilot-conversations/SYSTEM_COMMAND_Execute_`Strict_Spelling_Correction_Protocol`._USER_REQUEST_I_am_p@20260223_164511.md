@@ -1,8 +1,8 @@
 ---
-epoch: 1771854311006
+epoch: 1771854311000
 modelKey: "google/gemini-2.5-flash|openrouterai"
 
-
+lastAccessedAt: 1772318926562
 
 
 tags:
@@ -44,8 +44,7 @@ PROTOCOL_PARAMETERS:
 3.  **`Language`**: Preserve the original language of the text (Arabic/English).
 [Timestamp: 2026/02/23 16:45:11]
 
-**ai**: 
-<errorChunk>Something went wrong. Please check if you have set your API key.
+**ai**: <errorChunk>Something went wrong. Please check if you have set your API key.
 Path: Settings > copilot plugin > Basic Tab > Set Keys.
 Or check model config
 Error Details: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse: [403 ] Your API key was reported as leaked. Please use another API key.</errorChunk>
