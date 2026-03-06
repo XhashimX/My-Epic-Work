@@ -68,6 +68,21 @@
             }
           },
           {
+            "id": "301665638822d076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "cd45ab74abaa158d",
             "type": "leaf",
             "state": {
@@ -98,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +167,7 @@
             }
           },
           {
-            "id": "0d739c8f1f275935",
+            "id": "d144d90b98bdb41f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -265,17 +280,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f35af531bbc66edb",
+  "active": "301665638822d076",
   "lastOpenFiles": [
+    "Epic One/04 الجهاز البولي والتناسلي.md",
+    "Untitled.md",
     "G.P ONE.md",
+    "Branch of Branch of مراجعة دوائية للموت الرحيم.md",
     "gp notes.md",
+    "My Prompt.md",
     "Untitled 1",
     "Untitled",
     "Docs/G.P ONE.docx",
     "Docs/Attachments/GP ONE.jpeg",
     "Docs/Attachments/GP ONE.png",
     "الباطنة الصدرية/04 ذات الرئة Pneumonia.md",
-    "Epic One/04 الجهاز البولي والتناسلي.md",
     "Epic One/05 الجهاز العضلي الهيكلي والمناعة.md",
     "Epic One/epic one.md",
     "Epic One/01 الجهاز العصبي.md",
@@ -296,9 +314,6 @@
     "الباطنة الصدرية/06 آفات الرئة السادة.md",
     "Docs/صدرية.docx",
     "المداواة/05 الأدوية المؤثرة على الجهاز الهضمي.md",
-    "المداواة/02 asiapharma.md",
-    "المداواة/04 human-pharma.md",
-    "المداواة/09 ابن حيان.md",
     "الباطنة الصدرية/صدرية.md.bak",
     "الباطنة الصدرية",
     "Docs/Attachments/صدرية 1.png",
