@@ -58,13 +58,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الباطنة القلبية/اعتلالات العضلة القلبية.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "اعتلالات العضلة القلبية"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6402d3b5836193a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -98,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +167,7 @@
             }
           },
           {
-            "id": "25e4176a724c5fcd",
+            "id": "de2a196c25136e54",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -265,9 +280,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0fd2bc8196d765c1",
+  "active": "6402d3b5836193a8",
   "lastOpenFiles": [
+    "G.P ONE.md",
     "Untitled.md",
+    "Docs/G.P ONE.docx",
     "الباطنة القلبية/اعتلالات العضلة القلبية.md",
     "الباطنة القلبية/الآفات الصمامية.md",
     "الباطنة القلبية/التهاب الشغاف الانتاني.md",
@@ -301,8 +318,6 @@
     "الباطنة الدموية/06 الاضطرابات النزفية.md",
     "الباطنة الدموية/08 الخباثات الدموية.md",
     "Hard.md",
-    "G.P ONE.md",
-    "Untitled 1",
     "Docs/Attachments/GP ONE.jpeg",
     "Docs/Attachments/GP ONE.png",
     "Docs/Attachments/صدرية 1.png",
